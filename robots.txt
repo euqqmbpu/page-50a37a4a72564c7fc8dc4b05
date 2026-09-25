@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.liovybq.cn/sitemap.xml
